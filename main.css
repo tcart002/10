@@ -60,5 +60,7 @@ hr1
 body                                     {
                                           max-width: 450px;  
                                         }
+hr{ top: 9%;
+    left: 15%;}
 
                                    
