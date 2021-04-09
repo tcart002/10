@@ -60,7 +60,8 @@ hr1
 body                                     {
                                           max-width: 450px;  
                                         }
-hr{ top: 9%;
+hr{ position: absolute;
+     top: 9%;
     left: 15%;}
 
                                    
