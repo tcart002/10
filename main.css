@@ -50,9 +50,10 @@ hr
                                             position: absolute;
                                             top: 9%;
                                             color: white;
-                                            width: 1678px;
-                                            margin-left: -42px;
-                                            margin-right: 1000px;
+                                            width: device-width;
+                                            margin-left: 0px;
+                                            margin-right: 0px;
+                                              
                                             left: 1px;
                                             }
 
