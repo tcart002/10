@@ -63,5 +63,7 @@ body                                     {
 hr{ position: absolute;
      top: 9%;
     left: 15%;}
-
+p{left: 15%;
+top:60%;
+font-size: 30px;}
                                    
