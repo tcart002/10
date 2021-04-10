@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    border: solid 3px;
+    box-shadow: 0px 0px 40px 40px #000000;
+    
+    
+    
+    background-position: center;
+    
+    
+        margin-left: 200px;
+        margin-right: 200px;
+        
+}
+
+h3{
+    text-align: right;
+    color: white;
+    font-size: 25px;
+    
+
+}
+body{
+    background-image: url(laptop2.jpg);
+    
+    background-size: cover;
+}
+
+a{
+    color: white;
+    
+}
+A:hover{
+    color: red;
+    cursor: pointer;
+}
+.back{
+    
+    position: absolute;
+    
+    background-repeat: no-repeat;
+    margin-top: -2%;
+    
+
+    border: solid 3px white;
+    
+
+}
