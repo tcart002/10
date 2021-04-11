@@ -1,0 +1,41 @@
+img{
+    min-width: 104%;
+    margin-left: -2%;
+    margin-right: -4%;
+    margin-top: -2%;
+    position: absolute;
+    z-index: -1;
+    background-color: black;
+    max-height: 70%;
+    top: 80px;
+    filter: brightness(60%) ;
+}
+.tusharsingla002{
+    background-color: blue;
+    margin-right: 80%;
+    position: absolute;
+    top: 1%;
+    left: 16%;
+}
+.myblog{
+    top: -14px;
+    left: 1%;
+    position: relative;
+
+}
+h8{
+    margin-left: 8%;
+    position: absolute;
+    top: 14%;
+    color: white;
+    font-family: cursive;
+    font-style: oblique;
+    font-size: 20px;
+}
+.content{
+   text-align: center;
+    
+   
+    
+
+}
