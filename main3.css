@@ -33,9 +33,12 @@ h8{
     font-size: 20px;
 }
 .content{
-   text-align: center;
-    
-   
-    
+  
+    text-align: center;
+    background-color: white;
+    border: solid 2px;
+    margin-top: 246px;
+    margin-left: 10%;
+    margin-right: 10%;
 
 }
